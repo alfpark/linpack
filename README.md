@@ -1,2 +1,2 @@
 # linpack
-Singularity Hub HPLinpack Container
+Singularity 3 HPLinpack/HPCG Container
